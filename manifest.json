@@ -1,0 +1,10 @@
+{
+"name": "PADX ",
+"description": "It's a Notepad ",
+"short_name": "Note",
+"start_url": "/https://acceronixpro.github.io/PADX/",
+"scope": "https://acceronixpro.github.io/PADX/",
+"lang": "en-ZA",
+"theme_color": "#ffc700 ",
+"display": "standalone"
+}
